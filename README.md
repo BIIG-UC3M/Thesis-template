@@ -7,7 +7,7 @@ PhD thesis template
 
 ## Author(s)
 *   Asier Marcos Vidal <asmarcos@ing.uc3m.es>
-*   Later minor changes: Pedro M. Gordaliza <pmacias@ing.uc3m.es>
+*   Later minor changes, *readme* and extra features : Pedro M. Gordaliza <pmacias@ing.uc3m.es>
 
 --------------------------------------------------------------------------------
 ## Features
