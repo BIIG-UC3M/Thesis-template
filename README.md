@@ -45,6 +45,9 @@ PhD thesis template
 
 ## Building your thesis - XeLaTeX
 
+### For overleaf
+Clone and sync the repository https://github.com/BIIG-UC3M/Thesis-template
+
 ### Using latexmk (Unix/Linux/Windows)
 
 This template supports `XeLaTeX` compilation chain. To generate  PDF run
