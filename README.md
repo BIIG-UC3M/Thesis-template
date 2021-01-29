@@ -125,10 +125,11 @@ Usage: `sh ./compile-thesis.sh [OPTIONS] [filename]`
 
 ## Usage details
 
- * [] Thesis information such as title, author, year, degree, etc., and other meta-data can be modified in `thesis-info.tex`
+ * [] Thesis information such as title, author, year, degree, etc., and other meta-data can be modified in `output.xmpdata`
 
 ### Title page
 
+ * [] Update the cover according to your university rules. **WARNING!** For Universidad Carlos III de Madrid this is quite critical and you should follow their templates. Download the template given as a .doc from [here](https://www.uc3m.es/phdprogram/defense/thesis-deposit), include your information, save it as a .pdf and update the [code line in the Latex document](https://github.com/esgomezm/Thesis-template/blob/master/main_phd.tex#L193).
 
 ### Abstract separate
 
